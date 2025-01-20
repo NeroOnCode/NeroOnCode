@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm NeroOnCode 🇵🇪</h1>
+<p align="center">
 
-<!--
-**NeroOnCode/NeroOnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 I am a Software Development student.
+- ⚙ I love using technology as a `solution` or to `boost` ideas.
+- 👨🏾‍🎓 Currently, I am focused on frontend development and constantly learning and improving my skills every day.
+- 📚 `I am an enthusiast` when it comes to learning about the world of software.
+- 🔮 I am currently open to new `job opportunities.`
+<br>
+<br>
+</p>
 
-Here are some ideas to get you started:
+## <picture> 📮 </picture> Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<a href="https://discordapp.com/users/1011994953339121667"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&labelColor=black">
+</a>
+	<a href="http://wa.me/51924339939?text=Trabajemos%20juntos"><img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&labelColor=black">
+</a>
+	<a href="mailto:elneroj17@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&labelColor=black">
+</a>
+</p>
+
+## 🛠️ Skills
+
+<p align="center"> 
+  &emsp; 
+  <img src='https://skillicons.dev/icons?i=js,php,ts,java&theme=light'>
+</p>
+
+### <picture> 👨🏾‍🎨 </picture> Frontend
+
+<p align="center"> 
+  &emsp; 
+  <img src='https://skillicons.dev/icons?i=html,css,js,vite,react,angular,astro,tailwind&theme=light'>
+</p>
+
+### <picture> ⚙ </picture> Software & Tools Backend
+
+<p align="center">
+  &emsp;
+    <img src='https://skillicons.dev/icons?i=github,mysql,nodejs,postman,spring,express,figma&theme=light'>
+</p>
+
+### <picture> ⚒ </picture> IDEs
+
+<p align="center">
+  &emsp;
+    <img src='https://skillicons.dev/icons?i=vscode,idea&theme=light'>
+</p>
+
+### <picture> 💻 </picture> OS
+
+<p align="center">
+  &emsp;
+  <img src='https://skillicons.dev/icons?i=windows&theme=light'>
+ 
+</p>
