@@ -10,7 +10,7 @@
 <br>
 </p>
 
-## <picture> 📮 </picture> Contact Me
+## 📮 Contact Me
 
 <p align="center">
 	<a href="https://discordapp.com/users/1011994953339121667"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&labelColor=black">
@@ -28,28 +28,28 @@
   <img src='https://skillicons.dev/icons?i=js,php,ts,java&theme=light'>
 </p>
 
-### <picture> 👨🏾‍🎨 </picture> Frontend
+### 👨🏾‍🎨 Frontend
 
 <p align="center"> 
   &emsp; 
   <img src='https://skillicons.dev/icons?i=html,css,js,vite,react,angular,astro,tailwind&theme=light'>
 </p>
 
-### <picture> ⚙ </picture> Software & Tools Backend
+### ⚙ Software & Tools Backend
 
 <p align="center">
   &emsp;
     <img src='https://skillicons.dev/icons?i=github,mysql,nodejs,postman,spring,express,figma&theme=light'>
 </p>
 
-### <picture> ⚒ </picture> IDEs
+### ⚒ IDEs
 
 <p align="center">
   &emsp;
     <img src='https://skillicons.dev/icons?i=vscode,idea&theme=light'>
 </p>
 
-### <picture> 💻 </picture> OS
+### 💻 OS
 
 <p align="center">
   &emsp;
