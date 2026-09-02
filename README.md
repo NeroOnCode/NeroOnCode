@@ -39,14 +39,7 @@
 
 <p align="center">
   &emsp;
-    <img src='https://skillicons.dev/icons?i=github,mysql,nodejs,postman,spring,express,figma&theme=light'>
-</p>
-
-### ⚒ IDEs
-
-<p align="center">
-  &emsp;
-    <img src='https://skillicons.dev/icons?i=vscode,idea&theme=light'>
+    <img src='https://skillicons.dev/icons?i=github,mysql,nodejs,postman,express,figma&theme=light'>
 </p>
 
 ### 💻 OS
